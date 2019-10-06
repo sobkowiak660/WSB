@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git\2_second_project\2_second_project\bin\Debug\2_second_project.exe.config
+C:\xampp\htdocs\git\2_second_project\2_second_project\bin\Debug\2_second_project.exe
+C:\xampp\htdocs\git\2_second_project\2_second_project\bin\Debug\2_second_project.pdb
+C:\xampp\htdocs\git\2_second_project\2_second_project\obj\Debug\2_second_project.csprojAssemblyReference.cache
+C:\xampp\htdocs\git\2_second_project\2_second_project\obj\Debug\2_second_project.exe
+C:\xampp\htdocs\git\2_second_project\2_second_project\obj\Debug\2_second_project.pdb
