@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cojaturobie\cojaturobie\bin\Debug\cojaturobie.exe.config
+C:\Users\student\Desktop\cojaturobie\cojaturobie\bin\Debug\cojaturobie.exe
+C:\Users\student\Desktop\cojaturobie\cojaturobie\bin\Debug\cojaturobie.pdb
+C:\Users\student\Desktop\cojaturobie\cojaturobie\obj\Debug\cojaturobie.csprojAssemblyReference.cache
+C:\Users\student\Desktop\cojaturobie\cojaturobie\obj\Debug\cojaturobie.exe
+C:\Users\student\Desktop\cojaturobie\cojaturobie\obj\Debug\cojaturobie.pdb
