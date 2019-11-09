@@ -10,9 +10,10 @@ namespace cojaturobie
             int oper;
             double a, b, wynik = 0;
             bool wybor, koniec=false;
-            string operacja = "";
+            string operacja = "", stop;
             do
             {
+                
                 Console.WriteLine("Program wykonuje podstawowe działania arytmetyczne na dwóch liczbach.");
                 Console.Write("Podaj pierwszą liczbę: ");
                 while (true)
@@ -60,6 +61,17 @@ namespace cojaturobie
                     }
                 } while (!wybor);
                 Console.WriteLine("Wynik {0} liczb {1} i {2} to {3}", operacja, a, b, wynik);
+                if(!koniec)
+                {
+                    Console.WriteLine("Czy zakończyć działanie programu t/n ?");
+                    stop = Console.ReadLine();
+                    if (stop == "t") koniec = true;
+                    else
+                    {
+                        koniec = false;
+                        Console.Clear();
+                    }
+                }
             } while (!koniec);
             
         }
